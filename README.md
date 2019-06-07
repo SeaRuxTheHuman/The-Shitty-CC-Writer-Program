@@ -37,6 +37,6 @@ Anyway enjoy! my very buggy and yet kinda nifty little page writing program.
 
 ---
 
-##### lets print(or save) dat shit!:
+##### lets print (or save) dat shit!:
 
 ![Screen Shot 2019-06-07 at 1 36 18 PM](https://user-images.githubusercontent.com/50832154/59122678-54bf5300-8929-11e9-83de-e1c09c675327.png)
