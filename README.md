@@ -1,5 +1,5 @@
-# a-Terrible-CC-Writer-Program
-### A Shitty CC Writing At Its Finest
+# The-Shitty-CC-Writer-Program
+### Shit ComputerCraft Page Writing At Its Finest!
 
 ---
 Welcome to my the gihub page for my horibly coded, bug riddled & just generally crappy writing program that i made because I was bored. 
